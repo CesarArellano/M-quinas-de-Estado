@@ -113,7 +113,7 @@ int msg_aEdoB(void)
 
 int msg_SalA(void)
 {
-  printf("Salió al estado A\n");  
+  printf("Salió al estado A.\n");  
 }//funcion3
 
 int msg_SalB(void)
